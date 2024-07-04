@@ -1,5 +1,5 @@
 print("This is multiplication")
 a=20
 b=30
-sum=a*b
-print(sum)
+mul=a*b
+print(mul)
